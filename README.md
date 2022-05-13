@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://gordoenforma.github.io/404-not-found-page/">
       Demo
     </a>
     <span> | </span>
@@ -41,7 +41,9 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo?  
+
+  https://gordoenforma.github.io/404-not-found-page/
 - What was your experience?
 
   It was kinda refreshing to review plain HTML with CSS
@@ -68,6 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Breakpoints for Screen Size](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
 
 ## Contact
- 
-- GitHub [@GordoEnForma](https://{github.com/GordoEnForma})
 
+- GitHub [@GordoEnForma](https://{github.com/GordoEnForma})
